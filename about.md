@@ -9,8 +9,8 @@ Creator : Pouya Nazari
 
 ### More Information
 
-A place for download free :D
+Nothing yet !
 
-### Contact me
+### Contact me in telegram
 
 [@Pouya_SNazari](https://t.me/pouya_snazari)
