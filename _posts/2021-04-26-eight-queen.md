@@ -2,6 +2,7 @@
 published: true
 ---
 Eight queen problem in Ai lesson
+(This web page from Michael Becher)
 
 
 
