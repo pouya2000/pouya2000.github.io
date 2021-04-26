@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Torrent file to magnet link converter
 for uploud your torrent files to google-drive or other drives you need magnet link !
