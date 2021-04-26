@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Eight queen problem in Ai lesson
 
