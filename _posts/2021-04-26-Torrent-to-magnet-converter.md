@@ -10,4 +10,4 @@ for uploud your torrent files to google-drive or other drives you need magnet li
 
 
 Link :
-[t2m](https://sir-pouya.tk/t2m "Torrent 2 magnet")
+[Torrent 2 magnet](https://sir-pouya.tk/t2m "Torrent 2 magnet")
