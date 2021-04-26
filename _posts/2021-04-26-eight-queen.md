@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-eight queen problem in Ai lesson
+Eight queen problem in Ai lesson
 
 
 
