@@ -1,6 +1,13 @@
 ---
 published: false
 ---
-## A New Post
+Torrent file to magnet link converter
+for uploud your torrent files to google-drive or other drives you need magnet link !
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
+
+
+
+Link :
+[t2m](https://github.com/pouya2000/t2m "Torrent 2 magnet")
