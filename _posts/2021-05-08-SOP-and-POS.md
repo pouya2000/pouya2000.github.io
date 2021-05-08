@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 ## Logic circuit simplification (SOP and POS)
 
